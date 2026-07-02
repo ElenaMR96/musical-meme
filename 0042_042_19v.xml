@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Norwood Builder page 42</title>
+            <author>AC Doyle</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH Summer Course</p>
+            <date>1900</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p><idno>MS 42</idno></p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="5278" lry="7115" xml:id="facs_1">
+         <graphic url="0042_042_19v.jpeg" width="5278px" height="7115px"/>
+         <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=GQZQIZDIZQJWWEZNFMTTOBNX" width="5278px" height="7115px"/>
+         <zone points="4423,218 5003,218 5003,653 4423,653" rendition="TextRegion" xml:id="facs_1_r" subtype="page-number">
+            <zone points="4439,320 4861,320 4861,621 4439,621" rendition="Line" xml:id="facs_1_l_22"/>
+         </zone>
+         <zone points="178,930 5124,930 5124,2503 178,2503" rendition="TextRegion" xml:id="facs_1_r_1">
+            <zone points="296,941 4982,941 4982,1297 296,1297" rendition="Line" xml:id="facs_1_l"/>
+            <zone points="223,1254 2696,1254 2696,1665 223,1665" rendition="Line" xml:id="facs_1_l_1"/>
+            <zone points="1062,1502 4011,1502 4011,1954 1062,1954" rendition="Line" xml:id="facs_1_l_2"/>
+            <zone points="1049,1858 3432,1858 3432,2220 1049,2220" rendition="Line" xml:id="facs_1_l_3"/>
+            <zone points="1031,2165 5006,2165 5006,2557 1031,2557" rendition="Line" xml:id="facs_1_l_4"/>
+         </zone>
+         <zone points="147,2526 5154,2526 5154,3638 147,3638" rendition="TextRegion" xml:id="facs_1_r_2">
+            <zone points="175,2449 4662,2449 4662,2865 175,2865" rendition="Line" xml:id="facs_1_l_5"/>
+            <zone points="193,2762 5042,2762 5042,3172 193,3172" rendition="Line" xml:id="facs_1_l_6"/>
+            <zone points="241,3142 5072,3142 5072,3480 241,3480" rendition="Line" xml:id="facs_1_l_7"/>
+            <zone points="205,3359 5054,3359 5054,3745 205,3745" rendition="Line" xml:id="facs_1_l_8"/>
+         </zone>
+         <zone points="132,3645 1849,3645 1849,4001 132,4001" rendition="TextRegion" xml:id="facs_1_r_3">
+            <zone points="181,3679 1761,3679 1761,4041 181,4041" rendition="Line" xml:id="facs_1_l_9"/>
+         </zone>
+         <zone points="1857,3645 5101,3645 5101,4031 1857,4031" rendition="TextRegion" xml:id="facs_1_r_4">
+            <zone points="1912,3619 4831,3619 4831,3884 1912,3884" rendition="Line" xml:id="facs_1_l_10"/>
+            <zone points="1864,3751 4934,3751 4934,4005 1864,4005" rendition="Line" xml:id="facs_1_l_11"/>
+            <zone points="1858,3884 5048,3884 5048,4216 1858,4216" rendition="Line" xml:id="facs_1_l_12"/>
+         </zone>
+         <zone points="110,3993 5203,3993 5203,6767 110,6767" rendition="TextRegion" xml:id="facs_1_r_5">
+            <zone points="1043,3981 2853,3981 2853,4288 1043,4288" rendition="Line" xml:id="facs_1_l_13"/>
+            <zone points="1019,4264 4753,4264 4753,4626 1019,4626" rendition="Line" xml:id="facs_1_l_14"/>
+            <zone points="187,4548 4885,4548 4885,5036 187,5036" rendition="Line" xml:id="facs_1_l_15"/>
+            <zone points="211,4940 784,4940 784,5277 211,5277" rendition="Line" xml:id="facs_1_l_16"/>
+            <zone points="1037,5145 4897,5145 4897,5507 1037,5507" rendition="Line" xml:id="facs_1_l_17"/>
+            <zone points="247,5531 4795,5531 4795,5832 247,5832" rendition="Line" xml:id="facs_1_l_18"/>
+            <zone points="241,5766 4644,5766 4644,6140 241,6140" rendition="Line" xml:id="facs_1_l_19"/>
+            <zone points="259,6013 4946,6013 4946,6447 259,6447" rendition="Line" xml:id="facs_1_l_20"/>
+            <zone points="187,6357 4958,6357 4958,6821 187,6821" rendition="Line" xml:id="facs_1_l_21"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div><pb facs="#facs_1" n="1" xml:id="img_0001"/><fw type="page-number" facs="#facs_1_r" place="top">
+               <lb facs="#facs_1_l_22" n="N001"/>18</fw>
+            <ab facs="#facs_1_r_1" type="">
+               <lb facs="#facs_1_l" n="N001"/>said he; "But the writing in between is very bad and there are three
+               <lb facs="#facs_1_l_1" n="N002"/>places where I cannot read it at all"
+               <lb facs="#facs_1_l_2" n="N003"/>"What do you make of that?" said <rs type="person" wikiData="Q4653">Holmes</rs>.
+               <lb facs="#facs_1_l_3" n="N004"/>"Well, what do you make of it?"
+               <lb facs="#facs_1_l_4" n="N005"/>"That it was written in a train, the good writing represents
+            </ab>
+            <ab facs="#facs_1_r_2" type="">
+               <lb facs="#facs_1_l_5" n="N001"/>stations, the bad writing movement, and the very bad writing
+               <lb facs="#facs_1_l_6" n="N002"/>passing over points. A scientific expert would pronounce at once
+               <lb facs="#facs_1_l_7" n="N003"/>that this was drawn upon a suburban line since nowhere save
+               <lb facs="#facs_1_l_8" n="N004"/>in the immediate vicinity of a great city could there be <del>a</del> <add>so</add> quick a
+            </ab>
+            <ab facs="#facs_1_r_3" type="">
+               <lb facs="#facs_1_l_9" n="N001"/>succession of proints."
+            </ab>
+            <ab facs="#facs_1_r_4" type="">
+               <lb facs="#facs_1_l_10" n="N001"/>Granting that his whole journey was occupied in
+               <lb facs="#facs_1_l_11" n="N002"/>drawing up the will, then the train was an express
+               <lb facs="#facs_1_l_12" n="N003"/>only stopping once between Norwood &amp; <rs type="place">London</rs> Bridge.
+            </ab>
+            <ab facs="#facs_1_r_5" type="">
+               <lb facs="#facs_1_l_13" n="N001"/><rs type="person" wikiData="Q1067723">Lestrade</rs> began to laugh.
+               <lb facs="#facs_1_l_14" n="N002"/>"You are too many for me when you begin to get on
+               <lb facs="#facs_1_l_15" n="N003"/>your theories, <rs type="person" wikiData="Q4653">Mr. Holmes</rs>" said he "How does this bear on the
+               <lb facs="#facs_1_l_16" n="N004"/>case"
+               <lb facs="#facs_1_l_17" n="N005"/>"Well, it corroborates the young mans story to the
+               <lb facs="#facs_1_l_18" n="N006"/>extent that the will was drawn up by<rs type="person"> Jonas Oldacre</rs> in his
+               <lb facs="#facs_1_l_19" n="N007"/>journey <del>from Norwood to London Bridge </del>yesterday. It is
+               <lb facs="#facs_1_l_20" n="N008"/>curious, is it not, that a man should draw up so important a
+               <lb facs="#facs_1_l_21" n="N009"/>document in so haphazard a fashion. It suggests that he did
+            </ab></div>
+      </body>
+   </text>
+</TEI>
