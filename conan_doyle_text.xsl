@@ -7,6 +7,9 @@
     
     <!-- <xsl:output method="xml" omit-xml-declaration="yes" indent="yes" /> -->
     <xsl:template match="tei:teiHeader"/>
+    <xsl:output method="xml"
+        omit-xml-declaration="yes"
+        indent="yes"/>
 
     <xsl:template match="tei:body">
         <div class="row">
@@ -62,7 +65,9 @@
             <xsl:apply-templates/>
         </span>
     </xsl:template>
-    
+    <xsl:template match="tei:lb">
+        <br/>
+    </xsl:template>
     <!-- add additional templates below, for example to transform the tei:lb to <br/> empty elements, tei:hi[@rend = 'sup'] in <sup> elements, the underlined text, additions with the attribute "overwritten" etc. -->
 
     
